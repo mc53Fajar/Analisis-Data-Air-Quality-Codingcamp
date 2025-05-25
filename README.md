@@ -14,4 +14,4 @@ pip install streamlit-folium
 
 ## Run streamlit app
 ```
-streamlit run dasboard_streamlit.py
+streamlit run Dasboard_Streamlit.py
